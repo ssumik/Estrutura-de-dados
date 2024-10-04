@@ -31,5 +31,6 @@ int main() {
         printf("%d ", binaryTree[k]);
     }
 
+    //hello rapaz
     return 0;
 }
